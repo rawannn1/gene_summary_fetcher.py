@@ -12,4 +12,4 @@ You type: DRD4
 It shows: "This gene encodes the dopamine receptor D4..."
 
 ## Why it's useful:
-Doctors can understand what a gene does — in seconds.
+Doctors can understand what a gene does in seconds.
